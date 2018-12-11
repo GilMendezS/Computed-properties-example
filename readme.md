@@ -1,0 +1,3 @@
+Computed properties example:
+
+Post: 
